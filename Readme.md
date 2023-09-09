@@ -21,9 +21,9 @@
 - Planets Queries I
 - Planets Queries II
 - Planets Cycles
-# Todo List
 - Road Reparation
 - Road Construction
+# Todo List
 - Flight Routes Check
 - Planets and Kingdoms
 - Giant Pizza
