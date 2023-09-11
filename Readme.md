@@ -25,9 +25,9 @@
 - Road Construction
 - Flight Routes Check
 - Planets and Kingdoms
-# Todo List
 - Giant Pizza
 - Coin Collector
+# Todo List
 - Mail Delivery
 - De Bruijn Sequence
 - Teleporters Path
