@@ -27,7 +27,6 @@
 - Planets and Kingdoms
 - Giant Pizza
 - Coin Collector
-# Todo List
 - Mail Delivery
 - De Bruijn Sequence
 - Teleporters Path
